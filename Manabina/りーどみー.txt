@@ -1,90 +1,18 @@
 
-‰ü‚ß‚Ü‚µ‚ÄA‚±‚Ì“x‚Íƒ}`ƒiƒrƒBƒi‚ðƒ_ƒEƒ“ƒ[ƒh’¸‚«A‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü‚·B
+æ”¹ã‚ã¾ã—ã¦ã€ã“ã®åº¦ã¯ãƒžï½žãƒŠãƒ“ã‚£ãƒŠã‚’ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰é ‚ãã€ã‚ã‚ŠãŒã¨ã†ã”ã–ã„ã¾ã™ã€‚
 
-ƒQ[ƒ€‚ð—V‚ÔÛ‚ÍAGameƒtƒHƒ‹ƒ_“à‚ÌuManabina.exev‚ð‹N“®‚µ‚Ä‚­‚¾‚³‚¢B
-main.cpp‚Æ“¯‚¶ƒtƒHƒ‹ƒ_“à‚É‚ ‚éGraphƒtƒHƒ‹ƒ_“™‚ÍAƒfƒoƒbƒO‚µ‚½Û‚É“Ç‚Ýž‚Þ‚à‚Ì‚Å‚·‚Ì‚ÅA
-ƒtƒHƒ‹ƒ_‚ðˆÚ“®‚³‚¹‚é•K—v‚Í‚²‚´‚¢‚Ü‚¹‚ñB
-
-‚±‚ÌƒhƒLƒ…ƒƒ“ƒg‚Í‘¼‚É‘‚«ž‚Þ‚±‚Æ‚à‚È‚©‚Á‚½‚Ì‚ÅìŽÒ‚Ìº‚Å‚à‘‚¢‚Ä‚¨‚«‚Ü‚·B
-ƒQ[ƒ€‚ðì‚Á‚Ä‚Ý‚½‚¢•û‚È‚ñ‚©‚ÍŽQl’ö“x‚É‚µ‚Ä‚à‚¢‚¢‚©‚à‚µ‚ê‚Ü‚¹‚ñB
-‰½‚ªŽQl‚É‚È‚é‚©‚ÍŽ©•ª‚à•ª‚©‚è‚Ü‚¹‚ñ‚ªcB
-iƒlƒ^ƒoƒŒ‚ªŠÜ‚Ü‚ê‚é‚Ì‚ÅA–{•Ò‚ð—V‚ñ‚¾Œã‚ÉŒ©‚éŽ–‚ð‚¨Š©‚ß‚µ‚Ü‚·Ij
+ã‚²ãƒ¼ãƒ ã‚’éŠã¶éš›ã¯ã€Gameãƒ•ã‚©ãƒ«ãƒ€å†…ã®ã€ŒManabina.exeã€ã‚’èµ·å‹•ã—ã¦ãã ã•ã„ã€‚
+main.cppã¨åŒã˜ãƒ•ã‚©ãƒ«ãƒ€å†…ã«ã‚ã‚‹Graphãƒ•ã‚©ãƒ«ãƒ€ç­‰ã¯ã€ãƒ‡ãƒãƒƒã‚°ã—ãŸéš›ã«èª­ã¿è¾¼ã‚€ã‚‚ã®ã§ã™ã®ã§ã€
+ãƒ•ã‚©ãƒ«ãƒ€ã‚’ç§»å‹•ã•ã›ã‚‹å¿…è¦ã¯ã”ã–ã„ã¾ã›ã‚“ã€‚
 
 
 
-„„‚ ‚ÆŒê‚èƒƒ
+ï¼žï¼žã‚³ãƒ³ã‚¿ã‚¯ãƒˆï¼œï¼œ
 
-‰‚ß‚Ü‚µ‚ÄA§ìŽÒ‚Å‚·B”X‚Ì“s‡‚É‚æ‚èAƒ†[ƒU[–¼‚à–¼æ‚ç‚Ê‚±‚Æ‚ð‚¨‹–‚µ‰º‚³‚¢B
-Œ³X‚±‚ÌƒQ[ƒ€‚ÍŽ©•ª‚Ì’Ê‚¤ŠwZ‚Ì•¶‰»Õ‚Å‚¿‚å‚Á‚Æ“WŽ¦‚µ‚Ä‚â‚ë‚¤’ö“x‚Ì‹CŽ‚¿‚Å‚µ‚½B
-ì‚éƒQ[ƒ€‚ÍÅ‰‚©‚çu•×‹­‚Á‚Û‚¢‚à‚Ìv‚ÆŒˆ‚ß‚Ä‚¢‚Ü‚µ‚½‚ªA‹ï‘Ì—á‚Í”™‘R‚Å‚µ‚½B
+ä½œè€…ã®ãƒ¡ã‚¢ãƒ‰ï¼šfancolor890@gmail.com
 
-“–ŽžƒjƒRƒjƒR¶•ú‘—‚É‚ÍuƒJƒYƒCƒbƒ`v‚Æ‚¢‚¤ƒ~ƒjƒQ[ƒ€‚ª‚ ‚è‚Ü‚µ‚½B
-ƒJƒYƒCƒbƒ`‚Æ‚¢‚¤—V‚Ñ‚ª‚ ‚é‚Ì‚©‚È‚ÆŽv‚¢‚Ü‚µ‚½‚ªA“Á’i‚»‚¤‚¢‚Á‚½‚í‚¯‚Å‚à‚È‚­A
-ƒjƒRƒjƒR‚Ìƒ†[ƒU[‚Æ‚µ‚Ä—V‚ñ‚Å‚¢‚½Žž^‚Áæ‚ÉŽv‚Á‚½‚±‚Æ‚ªAuƒ}ƒEƒX‚Å—V‚Ñ‚É‚­‚ÁIIv‚Å‚µ‚½B
-ƒL[ƒ{[ƒh‚ÅƒJƒYƒCƒbƒ`‚ª‚Å‚«‚½‚çŠy‚µ‚¢‚Ì‚É‚ÈA‚ÆŽv‚Á‚Äì‚Á‚½‚Ì‚ª–{ƒQ[ƒ€‚ÌŽZ”‚Å‚·B
-‚R‚ÂˆÈã‘«‚·‚Æ‰½‚©‚µ‚ç‚Ìƒ{[ƒiƒX‚ªo‚éc‚Æ‚¢‚¤‚Ì‚àAŽ©•ª‚ÌŠè–]‚ªŒ³‚Å‚µ‚½B
-
-ƒJƒYƒCƒbƒ`‚ðì‚Á‚Ä‚¢‚éŽž‚ÉŽv‚Á‚½‚Ì‚ÍAƒeƒgƒŠƒX‚ÌBGM‚âƒWƒ€ƒmƒyƒeƒB‚Á‚ÄƒtƒŠ[‚Å“]‚ª‚Á‚Ä‚é‚ñ‚¾
-‚Æ‚¢‚¤ˆ ‘R‚Ì‚æ‚¤‚È‚à‚ÌBƒAƒŒƒ“ƒW‚Æ‚Í‚¢‚¦’˜ìŒ ‚Í»ìŽÒ‚É‚ ‚Á‚¿‚á‚¤‚í‚¯‚ÅA
-‚±‚ê‚©‚çƒQ[ƒ€‚ðì‚ë‚¤‚Æ‚µ‚Ä‚¢‚él‚àuƒAƒŒƒ“ƒW‚Á‚ÄŒ¾‚Á‚Ä‚àŒ³‚ª‚ ‚é‚µ‚Ç‚¤‚È‚ÌHv‚ÆŽv‚¤•ûA
-ˆÓŠO‚ÆŽg‚¤‚±‚Æ‚ª‚Å‚«‚¿‚á‚¤‚Ì‚ªŒ»Ý‚È‚ñ‚¾‚ÆŽv‚¢‚Ü‚·B
-
-
-
-‚³‚ÄA‘±‚¢‚ÄƒŠ[ƒhƒ_ƒ“ƒWƒ‡ƒ“‚Ì•û‚ÉŽQ‚è‚Ü‚µ‚å‚¤B
-‚ÆŒ¾‚Á‚Ä‚àA‚Ü‚ ŠF—l‚ÌŒ¾‚í‚ñ‚Æ‚·‚é‚±‚Æ‚Í‰½‚Æ‚È‚­‚í‚©‚è‚Ü‚·B
-‘å•ûAuƒlƒvƒŠZƒO‚Á‚Û‚¢v‚©u‰½‚Å“Œ•ûHv‚Ì“ñ‚Â‚Å‚µ‚å‚¤B“ñ‚Â‚Æ‚à‚¨“š‚¦‚µ‚Ü‚·B
-
-‚Ü‚¸ƒlZƒŠ[ƒO‚Á‚Û‚¢‚±‚Æ‚ÉŠÖ‚µ‚Ä‚Å‚·‚ªAÅ‰Šú‚ÍˆÓŽ¯‚¹‚¸A–{“–‚É‚½‚¾‚Ì“Ç‚Ý•ûƒNƒCƒY‚Å‚µ‚½B
-‰ü—Ç‚µ‚Ä‚¢‚«Au•ª‚©‚ç‚È‚¢ƒ{ƒ^ƒ“v‚Ì‘ã‚í‚è‚É§ŒÀŽžŠÔ‚ðì‚Á‚½•Ó‚è‚Å—Fl‚É‚»‚ê‚ðŒ¾‚í‚ê‚Ü‚µ‚½B
-‚»‚ÌŒã‚Í—£‚ê‚é‚æ‚è‚àŠñ‚¹‚é•ûŒü‚Ì•û‚ª–Ê”’‚¢ƒQ[ƒ€‚ª‚Å‚«‚»‚¤‚¾‚ÆŽv‚Á‚Ä§ì‚µ‚Ä‚¢‚«‚Ü‚µ‚½B
-ƒAƒhƒxƒ“ƒ`ƒƒ[ƒ‚[ƒh‚ðì‚Á‚½‚Ì‚à‚»‚Ì•Ó‚©‚ç‚Å‚·‚ËB
-
-‚Å‚ÍA‘±‚¢‚Ä“Œ•û‚ÉŠÖ‚µ‚ÄB
-Š¿Žš‚Ì–â‘è‚ðl‚¦‚éÛ‚Í‘å’ïƒlƒbƒg‚Å’²‚×‚é‚Ì‚Å‚·‚ªAŽ©•ª‚Í‚ ‚é“Á’è‚ÌƒWƒƒƒ“ƒ‹‚Éi‚èA
-Š¿Žš‚Ì–â‘è‚ðW‚ß‚Ä‚¢‚Ü‚µ‚½B‚»‚ÌƒWƒƒƒ“ƒ‹‚Æ‚¢‚¤‚Ì‚ªu‹›v‚Å‚µ‚½B
-—c‚¢ ‚æ‚­‹›‚ÉŠÖ‚·‚éŠ¿ŽšƒNƒCƒY‚ðo‚µ‚Ä‚¢‚½—Fl‚Ì‚±‚Æ‚ðŽv‚¢o‚µ‚Ä’²‚×‚Ä‚¢‚½‚Ì‚Å‚·‚ªA
-‚»‚±‚Åˆê‚Â‚Ìl‚¦‚ÉŽŠ‚è‚Ü‚·Bu‹›‚ÉŠÖ‚·‚éŠ¿Žš‚¾‚¯o‚·ƒ{ƒX‚ðì‚ë‚¤v‚ÆB
-‚»‚ê‚ª“Œ•ûƒCƒxƒ“ƒgŽÀ‘•‚ÉŽŠ‚Á‚½‘æˆê•à‚Å‚µ‚½BŠW‚ðŠJ‚¯‚ê‚Î‹›‚Æ‚¢‚¤‚©ŠC‚Å‚µ‚½‚¯‚ÇcB
-
-‹›‚Á‚Û‚¢ƒ{ƒXc‹›‚Á‚Û‚¢ƒ{ƒXc‚¤[[‚ñB‹›‚Á‚Û‚¢ƒ{ƒXcB
-“ª‚Ì’†‚Å‚Í—á‚Ìl‹›–^‚í‚©‚³‚¬‚³‚ñ‚ªƒe[ƒ}‹È‚ð•@‰Ì‚Æƒ‰`‚Å‰Ì‚¢‚È‚ª‚ç‚Ç‚Á‚µ‚è‹À‚Á‚Ä‚Ü‚µ‚½B
-Å‰‚Í‚Ç‚¤‚È‚ñ‚¾‚ë‚¤‚Æ‚¢‚¤ˆá˜aŠ´‚Í‚ ‚è‚Ü‚µ‚½‚ªA‚ ‚Ü‚è‚É‚à“ª‚Ì’†‚É‹À‚é‚Ì‚ÅA
-’iX‰½‚ªˆá˜aŠ´‚È‚Ì‚©•ª‚©‚ç‚È‚­‚È‚Á‚Ä‚«‚ÄA‚±‚¤‚È‚Á‚½‚çŠÛXs‚±‚¤I‚Æ‚È‚è‚Ü‚µ‚½B
-“Œ•û‚È‚çˆì‚ê‚é’ö‚Ì‘fÞ‚ª‚ ‚éã‚ÉŽ©•ª‚à“Œ•ûD‚«‚È‚Ì‚Åƒ‚ƒ`ƒx‚ª’´‚‚¢‚Å‚·Bì‚Á‚Ä‚ÄŠy‚µ‚©‚Á‚½B
-
-
-‚Ü‚Æ‚ß‚Ü‚·‚ÆAu“Á’è‚Ìƒe[ƒ}‚ÌŠ¿Žš‚ðo‚·ƒ{ƒX‚ðì‚è‚½‚©‚Á‚½‚©‚çv‚Å‚·‚ËB
-
-
-‰ï˜bƒCƒxƒ“ƒg‚à‚ ‚Á‚½‚Ì‚Å‚·‚ªA“Œ•û‚ð’m‚ç‚È‚¢•û‚àŠy‚µ‚ß‚é‚æ‚¤‚Éíœ‚µ‚Ü‚µ‚½B
-“Œ•ûProject‚Á‚Ä‚¢‚¤…ˆê“H‚‚ç‚µ‚½‚¾‚¯‚ÅAˆêu‚Åƒ}ƒjƒAƒbƒN‚ÅƒIƒ^ƒNŒü‚¯‚É‚È‚è‚Ü‚·‚©‚ç‚ËB
-Œ³X“WŽ¦—p‚Å‚µ‚½‚©‚çA—]Œv‚È‰ï˜b‚Íí‚Á‚½•û‚ª‚¢‚¢‚©‚È‚ÆŽv‚¢‚Ü‚µ‚½B
-iŒˆ‚µ‚ÄƒLƒƒƒ‰‚ªˆá‚¤‚Æ‚©Œ¾‚í‚ê‚é‚Ì‚ª•|‚©‚Á‚½‚í‚¯‚Å‚Í‚È‚¢Bj
-
-‚ ‚Æ‚ÍŠwZ‚Ì—Fl‚ÆA‚Ç‚ñ‚ÈƒRƒ“ƒZƒvƒg‚Å’N‚ðƒ{ƒX‚É‚·‚é‚©˜b‚µ‡‚Á‚ÄŒˆ‚ß‚Ü‚µ‚½B
-ƒŠƒOƒ‹i’Ž‚Ì–¼‘Oj‚Æ‚¢‚¤ˆÄ‚à—ÇˆÄ‚Å‚µ‚½‚ªAƒfƒoƒbƒO‚µ‚Ä‚¢‚éŽž‚É
-uå¶i‚³‚»‚èjvu’wåi‚­‚àjv‚Æ‚©Œ©‚Ä‚é‚Æ–l‚ª–Å“ü‚è‚»‚¤‚¾‚Á‚½‚Ì‚Å‚¨‘ “ü‚è‚µ‚Ü‚µ‚½B
-ƒŠƒOƒ‹D‚«‚È•û‚Í‚²‚ß‚ñ‚È‚³‚¢cB
-
-Œ‹‰Ê‚Æ‚µ‚Ä—pˆÓ‚Å‚«‚½‚U‚Â‚Ìƒe[ƒ}‚Í‚Ç‚ê‚à–¼ˆÄ‘µ‚¢‚¾‚Á‚½‚ÆŽv‚¢‚Ü‚·B
-‚ I‚»‚¤‚¢‚¤ƒRƒ“ƒZƒvƒg‚È‚Ì‚ËI‚Æ‚¢‚¤‹CŽ‚¿‚Æ‹¤‚ÉAŠy‚µ‚ñ‚Å—V‚ñ‚Å‚­‚ê‚é‚ÆŠð‚µ‚¢‚Å‚·B
-Šù‚Éˆêl‚ÍƒSƒŠƒSƒŠ‚Éƒlƒ^ƒoƒŒ‚µ‚Ü‚µ‚½‚¯‚ÇciÅ˜”Õ‚È‚Ì‚Å‹–‚µ‚Ä‚Ù‚µ‚¢jB
-
-
-
-‚Æ‚¢‚¤‚±‚Æ‚ÅAŒãŒê‚è‚Í‚»‚ñ‚È‹ï‡‚Å‚·B
-‚½‚¾ˆê‚ÂA¬Šw¶–¢–ž‚Ìl‚Í‚¿‚å‚Á‚Æ—V‚×‚È‚¢“à—e‚É‚È‚Á‚Ä‚µ‚Ü‚Á‚Ä‚¢‚é‚Ì‚ªŽc”OB
-‘_‚¢‚Ì”N—î‘w‚ðL‚°‚é‚Ì‚à“ï‚µ‚¢‚à‚Ì‚Å‚·cB
-
-
-
-„„ƒRƒ“ƒ^ƒNƒgƒƒ
-
-ìŽÒ‚ÌƒƒAƒhFfancolor890@gmail.com
-
-‘¼SNS‚ÉŠÖ‚µ‚Ä‚ÍAŒ»’iŠK‚Å‚ÍT‚¦‚³‚¹‚Ä‚­‚¾‚³‚¢B
-‚»‚±‚ÍŽž‚ðŒo‚ÄŒöŠJ‚µ‚æ‚¤‚ÆŽv‚Á‚Ä‚¢‚Ü‚·B
+ä»–SNSã«é–¢ã—ã¦ã¯ã€ç¾æ®µéšŽã§ã¯æŽ§ãˆã•ã›ã¦ãã ã•ã„ã€‚
+ãã“ã¯æ™‚ã‚’çµŒã¦å…¬é–‹ã—ã‚ˆã†ã¨æ€ã£ã¦ã„ã¾ã™ã€‚
 
 
 
